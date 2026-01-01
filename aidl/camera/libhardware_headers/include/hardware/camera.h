@@ -1,1 +1,0 @@
-../../../../../../../hardware/libhardware/include/hardware/camera.h
